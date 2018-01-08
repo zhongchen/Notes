@@ -1,21 +1,21 @@
-#The Elements of Scrum
+# The Elements of Scrum
 My notes of [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-Sims/dp/0982866917) by Chris Sims & Hillary Louise Johnson. 
 
-###The Iterative Method
+### The Iterative Method
 
 * Test as you go
 * Deliver product early and often
 * Document as you go
 * Build cross-functional teams
 
-###The Agile Values
+### The Agile Values
 
 * Indivaduals and iteractions over processes and tools
 * Working software over comprehensive documentation
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan
 
-###The Agile Principles
+### The Agile Principles
 
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software
 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
@@ -57,7 +57,7 @@ My notes of [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-
 
 ### The Sprint
 
-####Sprint planning meeting
+#### Sprint planning meeting
 
 1. What will we do
 	* Review the acceptance criteria for each user story
@@ -70,7 +70,7 @@ My notes of [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-
 	* Adjust the number of stories to complete based on the breakdown.
 	* Estimate the tasks
 
-####Daily Scrum
+#### Daily Scrum
 
 * Daily
 * Small
@@ -80,7 +80,7 @@ My notes of [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-
 	* What I expect to do today
 	* What obstacles are slowing me down 
 
-####Sprint Review
+#### Sprint Review
 
 * set the stage
 * gather the data
@@ -88,7 +88,7 @@ My notes of [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-
 * decide what to do
 * close
 
-###User Stories
+### User Stories
 
 The product owner should write fine-grained acceptance criteria, which are understood and agreeed to by the team.
 
