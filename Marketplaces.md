@@ -10,7 +10,7 @@ connecting buyers and sellers.
 * GMV (Gross Merchandise Value) The total dollar value of goods sold through the marketplace in a given period of time.
 * Take Rate. The percentage of transaction value that the marketplace collects in fees
 
-### What makes a good markertplace
+### What makes a good marketplace
 * High fragmentation. A lot of buyers and sellers. No dominant suppliers.
 * The buyer/seller relationship. Buyers are not loyal to sellers.
 * High frequency and frequent purchase cycle. 
@@ -27,7 +27,7 @@ connecting buyers and sellers.
 
 ## Seeding, Growing and Scaling a Marketplace
 
-### Seeding a markertplace
+### Seeding a marketplace
 * Identify unique inventory
 * Convince existing sellers to list on the platform
 * Bring customers to a provider
@@ -61,9 +61,18 @@ The goal is to devise an effective strategy to ramping up supply.
   1. take on additional parts of the value chain
   2. involve considerable risk
   3. can charge a higher take rate
-* Community-driven marketplaces. Build a community of buyers and sellers to create a differentiator.
-* Saas-enabled marketplaces. Offer free software to enhance buyers' existing businesses and then make them join the marketplace.
-* Decentralized markertplaces. The transactions between marketplace participants are settled using the token. Use the token as the incentive to boostrap the marketplace. 
+* Community driven marketplaces. Building a community of buyer and seller to create a unique differentiator. 
+* Sass-enabled marketplaces. Provide sellers with free software and then attract them to the platform.
+* Decentralized marketplaces. The transactions bewteen marketplace participants are settled using the token. Use the token as the incentive to boostrap the market.
+
+## Marketplace Metrics
+* Gross merchandise value
+* The total number of transactions
+* Average order value
+* Customer acquisition cost
+
+Supply liquidity: The percentage of listings that lead to transactions within a certain period of time. It servers also a proxy for the efficiency of the marketplace.
+Customer liquidity: The probability of visit leading to a transaction.
 
 
 
